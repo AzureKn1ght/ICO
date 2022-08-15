@@ -42,4 +42,4 @@ We will now deploy the dApp, so that everyone can see the website.
 https://goerli.etherscan.io/token/0x64e089525e6e434e3147f4d9b9c5026cbd6e3c5e
 
 ### Dapp Frontend
-https://nft-collection-azurekn1ght.vercel.app/
+https://ico-azurekn1ght.vercel.app/
